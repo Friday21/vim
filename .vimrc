@@ -446,6 +446,7 @@ Bundle 'ctrlp.vim'
 Bundle 'tacahiroy/ctrlp-funky'
 Bundle 'jsbeautify'
 Bundle 'The-NERD-Commenter'
+Bundle 'Valloric/YouCompleteMe'
 "django
 Bundle 'django_templates.vim'
 Bundle 'Django-Projects'
